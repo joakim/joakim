@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @joakim
 - 🌱 I’m interested in learning and making stuff
 - 👀 I’m currently focusing on [Secure Scuttlebutt](https://ssbc.github.io/scuttlebutt-protocol-guide/) and [CRDTs](https://github.com/yjs/yjs)
-- 💬 You can find me on [SSB](https://scuttlebutt.nz/) as [@XWYRO2dsK3jjaaJYxCfVt1KPPSF3WgMkbSNu/nDwJ4k=.ed25519](ssb:feed/ed25519/XWYRO2dsK3jjaaJYxCfVt1KPPSF3WgMkbSNu_nDwJ4k=)
+- 💬 You can find me on [SSB](https://scuttlebutt.nz/):
+  - ssb:feed/ed25519/xKimeTr43O5-6yhzjEAcLYvD3lxl6kDnzDfmm3VuZcc=
+  - ssb:feed/ed25519/XWYRO2dsK3jjaaJYxCfVt1KPPSF3WgMkbSNu_nDwJ4k=
